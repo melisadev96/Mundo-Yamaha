@@ -1,0 +1,49 @@
+#h1 {
+    color: rgb(243, 67, 35);  
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 75px;
+}
+
+.reference {
+color: rgb(243, 67, 35);  
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-size: 23px;
+}
+
+.h4 {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.p {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.motos {
+    display:flex;
+    flex-wrap: wrap;
+    
+}
+
+
+
+.right {
+    float: right;
+    
+}
+
+
+.container {
+    height: 100px;
+}
+
+.moto {
+    border: solid 0px #ccc;
+    border-radius: 5px;
+    margin: 0;
+    padding: 10px 0;
+    width: 33.3%;
+}
